@@ -1,4 +1,4 @@
-# foundation-site
+# Foundation-site
 A simple, responsive website built for **NayePankh Foundation**, showcasing its mission, initiatives, and contact details.  
 Developed using **HTML, CSS, and JavaScript**, the site highlights NGO work with clean design, animations, and dark mode support.
 
